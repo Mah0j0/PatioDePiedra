@@ -34,7 +34,7 @@ El sistema es útil porque:
 - **Optimiza la gestión operativa**: Automatiza procesos administrativos y facilita la toma de decisiones basadas en datos.
 - **Fomenta la comunicación**: Establece un canal directo entre clientes y el hotel.
 
-##Diagrama de Base de Datos
+## Diagrama de Base de Datos
 ![image](https://github.com/user-attachments/assets/06663964-caf4-42f4-889a-c14a04d24491)
 
 ## Cómo pueden comenzar a usar el proyecto
