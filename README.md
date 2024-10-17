@@ -1,11 +1,11 @@
 # Sistema Web de Gestión de Reservas para el Hotel "Patio de Piedra"
 
-| Integrantes |
-| ----- |
-| Albarracin Miranda Victor Santiago |
-| Paniagua Berrios Erick Alan |
-| Reyes Ramirez Fidel Eliseo |
-| Salinas Parra Maria Jose |
+| Integrantes | Roles |
+| ----- | ----- |
+| Albarracin Miranda Victor Santiago | Programador BackEnd |
+| Paniagua Berrios Erick Alan | Analista de Datos |
+| Reyes Ramirez Fidel Eliseo | Coach |
+| Salinas Parra Maria Jose | Programador FrontEnd |
 
 ## Qué hace el proyecto
 Este proyecto es un sistema web que permite al hotel "Patio de Piedra" gestionar sus reservas de manera eficiente y directa. 
