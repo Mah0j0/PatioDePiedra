@@ -33,6 +33,7 @@ El sistema es útil porque:
 - **Mejora la experiencia del cliente**: Ofrece una interfaz intuitiva y accesible para realizar reservas.
 - **Optimiza la gestión operativa**: Automatiza procesos administrativos y facilita la toma de decisiones basadas en datos.
 - **Fomenta la comunicación**: Establece un canal directo entre clientes y el hotel.
+![image](https://github.com/user-attachments/assets/7851b2bd-f37b-46d0-b94d-c3ffd7a0be1a)
 
 ## Cómo pueden comenzar a usar el proyecto
 Para comenzar a utilizar el sistema, sigue estos pasos:
